@@ -9,3 +9,6 @@ light-dm
 
 ## Dock
 plank
+
+## Additional
+Needs an policy authentication service for running GUI apps in root mode
